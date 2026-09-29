@@ -1,0 +1,6 @@
+Patient_ID,Age,BMI,Glucose,Systolic_BP,Diastolic_BP,Heart_Rate,Cholesterol,Recorded_Category
+DEMO001,34,23.4,92,115,75,72,178,General (demo category)
+DEMO002,52,29.1,128,132,84,78,215,General (demo category)
+DEMO003,45,26.8,110,124,80,76,196,General (demo category)
+DEMO004,61,31.0,145,148,92,82,240,Needs review (demo category)
+DEMO005,28,22.5,88,110,72,70,165,General (demo category)
